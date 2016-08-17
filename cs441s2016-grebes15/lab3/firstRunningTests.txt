@@ -1,0 +1,83 @@
+After running convert_forloop.sh
+rm: cannot remove '*thumb*': No such file or directory
+55
+
+real 0m5.135s
+user 0m7.532s
+sys	0m0.403s
+
+110
+
+The rm: cannot remove '*thumb*': no such file or directory will show up because there are no thumbnails at the spcified directory yet, if one run a second time, then this message will not show
+
+
+55
+
+real	0m3.898s
+user	0m7.680s
+sys	0m0.497s
+
+110
+
+
+
+Running: convert_parallel.sh
+/home/l/landgrebea/Documents/senior/cs441/cs441s2016-grebes15/lab3/startingPoint/images/slides
+
+55
+Unknown option: no-notice
+Unknown option: no-notice
+
+real	0m2.611s
+user	0m8.674s
+sys	0m0.683s
+
+110
+
+/home/l/landgrebea/Documents/senior/cs441/cs441s2016-grebes15/lab3/startingPoint/images/slides
+
+55
+Unknown option: no-notice
+Unknown option: no-notice
+
+real	0m2.804s
+user	0m8.769s
+sys	0m0.793s
+
+110
+
+Running: convert_xargs.sh
+/home/l/landgrebea/Documents/senior/cs441/cs441s2016-grebes15/lab3/startingPoint/images/slides
+
+55
+
+real	0m3.941s
+user	0m7.705s
+sys	0m0.514s
+
+110
+
+/home/l/landgrebea/Documents/senior/cs441/cs441s2016-grebes15/lab3/startingPoint/images/slides
+
+55
+
+real	0m4.349s
+user	0m7.640s
+sys	0m0.566s
+
+110
+
+Tests To Run To Complete This Lab Assignment
+Run Only Dogs
+Run Only Cats
+Run Only Slides
+Run Everything Together
+
+
+
+
+
+
+
+
+

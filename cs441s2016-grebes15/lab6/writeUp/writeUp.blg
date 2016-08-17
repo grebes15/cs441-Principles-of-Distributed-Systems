@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: writeUp.aux
+The style file: plain.bst
+Database file #1: sample.bib
+Warning--I didn't find a database entry for "atagramsocket_java_platform_se_7"
+Warning--I didn't find a database entry for "multicastsocket_java_platform_se_7_b12"
+Warning--to sort, need author or key in inetaddress_java_platform_se_6
+Warning--to sort, need author or key in datagramsocket_java_platform_se_7
+Warning--to sort, need author or key in multicastsocket_java_platform_se_7_b123
+Warning--empty author in 2001:IMS:380749.380771
+You've used 6 entries,
+            2118 wiz_defined-function locations,
+            531 strings with 5147 characters,
+and the built_in function-call counts, 1562 in all, are:
+= -- 152
+> -- 50
+< -- 1
++ -- 23
+- -- 16
+* -- 97
+:= -- 223
+add.period$ -- 15
+call.type$ -- 6
+change.case$ -- 26
+chr.to.int$ -- 0
+cite$ -- 10
+duplicate$ -- 65
+empty$ -- 156
+format.name$ -- 16
+if$ -- 351
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 4
+newline$ -- 29
+num.names$ -- 4
+pop$ -- 44
+preamble$ -- 1
+purify$ -- 21
+quote$ -- 0
+skip$ -- 54
+stack$ -- 0
+substring$ -- 80
+swap$ -- 13
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 22
+warning$ -- 4
+while$ -- 9
+width$ -- 7
+write$ -- 56
+(There were 6 warnings)

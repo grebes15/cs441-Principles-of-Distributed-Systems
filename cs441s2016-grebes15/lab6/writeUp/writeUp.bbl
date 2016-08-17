@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+
+\bibitem{datagramsocket_java_platform_se_7}
+Datagramsocket (java platform se 7 ).
+\newblock
+  \url{https://docs.oracle.com/javase/7/docs/api/java/net/datagramsocket.html}.
+
+\bibitem{inetaddress_java_platform_se_6}
+Inetaddress (java platform se 6).
+\newblock
+  \url{http://docs.oracle.com/javase/6/docs/api/java/net/inetaddress.html}.
+
+\bibitem{multicastsocket_java_platform_se_7_b123}
+Multicastsocket (java platform se 7 b123).
+\newblock
+  \url{http://download.java.net/jdk7/archive/b123/docs/api/java/net/multicastsocket.html}.
+
+\bibitem{2001:IMS:380749.380771}
+An {I}nternet {M}ulticast {S}ystem for the {S}tock {M}arket.
+\newblock {\em ACM Trans. Comput. Syst.}, 19(3):384--412, August 2001.
+
+\bibitem{Dutta:2002:MSS:570705.570717}
+Ashutosh Dutta, Subir Das, Wai Chen, Anthony McAuley, Henning Schulzrinne, and
+  Onur Altintas.
+\newblock Marconinet {S}upporting {S}treaming {M}edia over {L}ocalized
+  {W}ireless {M}ulticast.
+\newblock In {\em Proceedings of the 2Nd International Workshop on Mobile
+  Commerce}, WMC '02, pages 61--69, New York, NY, USA, 2002. ACM.
+
+\bibitem{tanenbaum_steen_2007}
+Andrew~S. Tanenbaum and Maarten~van. Steen.
+\newblock {\em Distributed {S}ystems: {P}rinciples and {P}aradigms}.
+\newblock Pearson Prentice Hall, 2007.
+
+\end{thebibliography}

@@ -1,0 +1,1 @@
+This repository contains the deliverables for the laboratory assignments in Computer Science 441 offered at Allegheny College during the Spring 2016 Semester being taught by Dr. Gregory M. Kapfhammer 

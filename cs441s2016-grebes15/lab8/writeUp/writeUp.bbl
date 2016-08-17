@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+
+\bibitem{coyle_2013}
+James Coyle.
+\newblock Simple bonnie example | jamescoyle.net, Dec 2013.
+\newblock \url{http://www.jamescoyle.net/how-to/913-simple-bonnie-example}.
+  Accessed 30 March 2016.
+
+\bibitem{tanenbaum_steen_2007}
+Andrew~S. Tanenbaum and Maarten~van. Steen.
+\newblock {\em Distributed {S}ystems: {P}rinciples and {P}aradigms}.
+\newblock Pearson Prentice Hall, 2007.
+
+\bibitem{Traeger:2008:NYS:1367829.1367831}
+Avishay Traeger, Erez Zadok, Nikolai Joukov, and Charles~P. Wright.
+\newblock A nine year study of file system and storage benchmarking.
+\newblock {\em Trans. Storage}, 4(2):5:1--5:56, May 2008.
+
+\end{thebibliography}

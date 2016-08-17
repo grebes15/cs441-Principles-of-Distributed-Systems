@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{parallel_boundary_domain_integral_method}
+Parallel boundary domain integral method.
+
+\bibitem{mivule_2011}
+Kato Mivule.
+\newblock Difference between sequential and parallel programming, 2011.
+
+\bibitem{tanenbaum_steen_2007}
+Andrew~S. Tanenbaum and Maarten~van. Steen.
+\newblock {\em Distributed {S}ystems: {P}rinciples and {P}aradigms}.
+\newblock Pearson Prentice Hall, 2007.
+
+\bibitem{Tange2011a}
+O.~Tange.
+\newblock Gnu parallel - the command-line power tool.
+\newblock {\em ;login: The USENIX Magazine}, 36(1):42--47, Feb 2011.
+
+\end{thebibliography}

@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{Kapitza:2005:FRE:1101516.1101518}
+R\"{u}diger Kapitza, Michael Kirstein, Holger Schmidt, and Franz~J. Hauck.
+\newblock Formi: An rmi extension for adaptive applications.
+\newblock In {\em Proceedings of the 4th Workshop on Reflective and Adaptive
+  Middleware Systems}, ARM '05, New York, NY, USA, 2005. ACM.
+
+\bibitem{tanenbaum_steen_2007}
+Andrew~S. Tanenbaum and Maarten~van. Steen.
+\newblock {\em Distributed {S}ystems: {P}rinciples and {P}aradigms}.
+\newblock Pearson Prentice Hall, 2007.
+
+\bibitem{Yang:2006:SSJ:1168054.1168063}
+Chih-Chieh Yang, Chung-Kai Chen, Yu-Hao Chang, Kai-Hsin Chung, and Jenq-Kuen
+  Lee.
+\newblock Streaming support for java rmi in distributed environments.
+\newblock In {\em Proceedings of the 4th International Symposium on Principles
+  and Practice of Programming in Java}, PPPJ '06, pages 53--61, New York, NY,
+  USA, 2006. ACM.
+
+\end{thebibliography}
